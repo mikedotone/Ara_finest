@@ -1,4 +1,4 @@
-Ara_finest: Chronos Core
+Ara_finest : Chronos Core:
 Chronos Core is a self-hosted, evolving AI companion for single-machine deployment (Linux Mint 22, Python 3.10, GTX 1070 8GB VRAM). It uses Ollama for local Mistral 7B inference, ChromaDB for hybrid RAG memory, and Unsloth QLoRA for periodic fine-tuning. Features: temporal awareness, 24/7 daemon (reflections every 15-30 min, training every 60 min), file processing (upload/chunk/embed/summarize), WebSocket chat UI with voice toggle and sleep/wake.
 Prerequisites
 
